@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">IntencionesProfe</string>
+    <string name="b_Web">abrir pagina web</string>
+    <string name="b_Telefono">hacer llamada telefonica</string>
+    <string name="b_googleMaps">Google Maps</string>
+    <string name="b_tomarFoto">Tomar una foto</string>
+    <string name="bt_correo">Mandar un correo</string>
+
+</resources>
