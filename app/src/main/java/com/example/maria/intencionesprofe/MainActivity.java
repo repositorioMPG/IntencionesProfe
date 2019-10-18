@@ -27,6 +27,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void googleMaps(View view) {
+        /*dsfsdfsdfsdfsdfsd*/
         Intent intent = new Intent(Intent.ACTION_VIEW,
                 Uri.parse("geo:42.331933,-7.875000"));
         startActivity(intent);
